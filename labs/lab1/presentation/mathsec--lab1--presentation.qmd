@@ -112,7 +112,7 @@ println(atbash(word))
 
 # Список литературы
 
-1. Julia1.11Documentation. url: https://docs.julialang.org/en/v1/ (дата обр. 11.10.2024).
+1. Julia1.11Documentation. url: https://docs.julialang.org/en/v1/ (дата обр. 11.10.2024)
 
-2. JuliaLang. url: https://julialang.org/ (дата обр. 11.10.2024).
+2. JuliaLang. url: https://julialang.org/ (дата обр. 11.10.2024)
 
