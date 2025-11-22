@@ -12,8 +12,8 @@ author:
       city: Москва
       address: ул. Миклухо-Маклая, д. 6
 ## Title
-title: Лабораторная работа №1
-subtitle: Шифры простой замены
+title: Лабораторная работа №6
+subtitle: Разложение числа на множители
 license: CC BY
 date: today
 date-format: "2025-09-15" # Example: 2025-09-06
